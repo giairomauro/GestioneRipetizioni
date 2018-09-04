@@ -1,1 +1,1 @@
-# GetioneRipetizioni
+# Gestione ripetizioni
