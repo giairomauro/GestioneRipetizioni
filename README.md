@@ -17,5 +17,5 @@
 * [Gantt Preventivo](https://github.com/giairomauro/GestioneRipetizioni/blob/master/GanttPreventivo.gan "Gantt Preventivo")
 * [Trello Project Management](https://trello.com/b/G0tybkpC/gestione-ripetizioni "Trello")
 * [GitHub Repository](https://github.com/giairomauro/GestioneRipetizioni "GitHub Progetto")
-## Diari
-* [Diari](https://github.com/giairomauro/GestioneRipetizioni/tree/master/Diari "Diari")
+## [Diari](https://github.com/giairomauro/GestioneRipetizioni/tree/master/Diari "Diari")
+* [Diario 04.09.2018](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Diari/I4_diario_progetto1_2018.04.09.pdf "Diario 04.09.2018")
