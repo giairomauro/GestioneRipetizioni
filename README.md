@@ -26,3 +26,4 @@
 * [Diario 19.09.2018](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Diari/I4_diario_progetto1_2018.19.09.pdf "Diario 05.09.2018")
 * [Diario 25.09.2018](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Diari/I4_diario_progetto1_2018.25.09.pdf "Diario 05.09.2018")
 * [Diario 26.09.2018](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Diari/I4_diario_progetto1_2018.26.09.pdf "Diario 05.09.2018")
+* [Diario 02.10.2018](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Diari/I4_diario_progetto1_2018.02.10.pdf "Diario 05.09.2018")
