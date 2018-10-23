@@ -9,7 +9,7 @@
 **Inizio:** 04.09.2018  
 **Consegna:** 12.12.2018
 * [Documentazione](https://github.com/giairomauro/GestioneRipetizioni/tree/master/Documentazione "Cartella documentazione")
-  + [Quaderno dei compiti]( "Quaderno dei compiti")
+  + [Quaderno dei compiti](https://github.com/giairomauro/GestioneRipetizioni/blob/master/QDC%20Ripetizioni%20scolastiche.pdf "Quaderno dei compiti")
   + [Analisi dei requisiti](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Documentazione/Analisi%20dei%20requisiti.docx "Analisi dei requisiti")
   + [Immagine Gantt Preventivo](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Documentazione/GanttPreventivo.JPG "Gantt Preventivo")
   + [Documentazione](https://github.com/giairomauro/GestioneRipetizioni/blob/master/Documentazione/Documentazione.doc "Documentazione")
